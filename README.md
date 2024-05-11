@@ -57,7 +57,7 @@ Socket programming finds applications in various domains, including web developm
 Developed by: YUVARAJ V
 Reg nuber:212223230252
 ```
-##CLIENT:
+CLIENT:
 
 ```
 import socket   
@@ -74,7 +74,7 @@ if ack:
  print(ack)     
 c.close()
 ```
-##SERVER:
+SERVER:
 
 ```
 import socket     
